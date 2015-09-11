@@ -1,0 +1,9 @@
+p, h1, h3, ul {
+	font-family: sans-serif;
+}
+
+body {
+    padding-right: 300px;
+    padding-bottom: 25px;
+    padding-left: 300px;
+}
